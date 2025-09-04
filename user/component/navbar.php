@@ -43,23 +43,23 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-lg-5">
                 <li class="nav-item">
-                    <a class="nav-link click-scroll" href="index.php#section_1">Home</a>
+                    <a class="nav-link click-scroll" href="../index.php#section_1">Home</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link click-scroll" href="index.php#section_2">About</a>
+                    <a class="nav-link click-scroll" href="../index.php#section_2">About</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link click-scroll" href="index.php#section_3">Services</a>
+                    <a class="nav-link click-scroll" href="../index.php#section_3">Services</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link click-scroll" href="index.php#section_4">Pages</a>
+                    <a class="nav-link click-scroll" href="../index.php#section_4">Pages</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link click-scroll" href="index.php#section_5">Contact</a>
+                    <a class="nav-link click-scroll" href="../index.php#section_5">Contact</a>
                 </li>
                 <div class="nav-item dropdown">
                     <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Resouces</a>
