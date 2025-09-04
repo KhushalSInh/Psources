@@ -3,10 +3,10 @@ session_start();
 class Database
 {
 
-    private $db_host = "localhost";
-    private $db_user = "root";
-    private $db_pass = "";
-    private $db_name = "psources";
+    private $db_host = "sql306.infinityfree.com";
+    private $db_user = "if0_39700499";
+    private $db_pass = "NWGJxF6FVdmm";
+    private $db_name = "if0_39700499_psources";
 
     private $mysql = "";
     private $con = false;
